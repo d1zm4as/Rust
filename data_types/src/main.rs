@@ -31,7 +31,7 @@ fn main() {
     println!("{}",lol.1);
     println!("{}",lol.2);
     //o tipo array, tem um tamanho fixo, aceita apenas um tipo
-    let arr = [1,2,3,4,5]
+    let arr = [1,2,3,4,5];
 
-    let arr1 = [3;5]
+    let arr1 = [3;5];
 }
