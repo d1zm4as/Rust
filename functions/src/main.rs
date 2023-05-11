@@ -1,7 +1,4 @@
-fn main() { 
-    println!("Hello, world!"); 
-    another_fun();
-    soma(4,3);}
+fn main() { println!("Hello, world!"); another_fun();soma(4,3);}
 
 /*
 statementes -> são instruções que perfomam alguma ação e não retornam valor
