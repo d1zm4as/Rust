@@ -34,4 +34,5 @@ fn main() {
     let arr = [1,2,3,4,5];
 
     let arr1 = [3;5];
+    println!("{}",arr[0]);
 }
