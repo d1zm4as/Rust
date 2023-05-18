@@ -2,7 +2,12 @@
 const VALOR_REAL_DA_QUEIJADA:f32 = 3.40;
 fn main() {
     /*
-    Por padrão(e por segurança) as variáveis em Rust são imutáveis
+    Variável é uma maneira de alocar temporiariamente um espaço na memória, facilitando, para os programadors, o trabalho e a manipulação de memória
+
+
+
+
+    Por padrão(e por segurança) as variáveis em Rust são imutáveis, devem ser criadas com o let 
     
     */
     
